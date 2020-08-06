@@ -1,0 +1,5 @@
+Flask
+flask_swagger_ui
+flask-cors
+flasgger
+pytest
